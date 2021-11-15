@@ -94,6 +94,7 @@ body {
     width: 70%;
     margin-top: -48px;
     margin-bottom: 30px;
+    line-height: 20px;
 }
 
 .main-text a {
@@ -149,7 +150,6 @@ body {
     transform: translateY(-15px);
 }
 /* Pepsi images end */
-
 
 
 
